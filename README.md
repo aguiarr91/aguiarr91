@@ -44,4 +44,4 @@ Professional with a solid background in high-performance corporate environments 
 ---
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=nord)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aguiarr91&show_icons=true&theme=nord)
