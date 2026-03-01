@@ -42,6 +42,3 @@ Professional with a solid background in high-performance corporate environments 
 - **Email:** [aguiar.rafaelm@gmail.com](mailto:aguiar.rafaelm@gmail.com)
 
 ---
-
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aguiarr91&show_icons=true&theme=nord)
